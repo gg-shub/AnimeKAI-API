@@ -12,6 +12,9 @@
 </p>
 
 ---
+## As you know, AnimeKai has been shut down. so the scraper will no longer work
+
+
 
 ## 🌟 Overview
 
